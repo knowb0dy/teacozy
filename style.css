@@ -8,13 +8,16 @@ body {
     margin: auto;
 }
 
+header {
+    border-bottom: 1px solid seashell;
+    height: 69px;
+    position: fixed;
+}
+
 nav {
     text-decoration: underline;
     display: inline;
-    border-bottom: 1px solid seashell;
     width: 100%;
-    position: fixed;
-    height: 69px;
 }
 
 nav li {
