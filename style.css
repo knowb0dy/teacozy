@@ -50,10 +50,25 @@ nav span {
     height: 50px;
 }
 
+.main {
+    padding-top: 69px;
+    opacity: 0.9;
+    width: 1200px;
+    margin: auto;
+  }
+
 #hero {
     height: 700px;
     background-image: url(/resources/images/img-mission-background.jpeg);
     padding-top: 70px;
 }
+
+#hero .content {
+    margin: auto;
+    background-color: black;
+    width: 100%;
+}
+
+
 
 
