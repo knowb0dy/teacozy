@@ -69,6 +69,30 @@ nav span {
     width: 100%;
 }
 
+#products {
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+    padding-top: 70px;
+}
+
+.item {
+    padding: 5px;
+}
+
+.item img {
+    height: 200px;
+    width: 300px;
+    display: block;
+}
+
+.item span {
+    display: block;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
 
 
 
